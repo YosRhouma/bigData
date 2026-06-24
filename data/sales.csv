@@ -1,0 +1,16 @@
+order_id,date,city,category,product,quantity,unit_price,payment
+1,2026-01-02,Tunis,Electronics,Keyboard,2,45.00,Card
+2,2026-01-03,Sousse,Home,Desk Lamp,1,75.00,Cash
+3,2026-01-04,Tunis,Electronics,Mouse,3,25.00,Card
+4,2026-01-05,Sfax,Food,Coffee,5,12.00,Mobile
+5,2026-01-06,Tunis,Home,Chair,2,120.00,Card
+6,2026-01-07,Sousse,Electronics,Keyboard,1,45.00,Mobile
+7,2026-01-08,Sfax,Food,Tea,4,8.50,Cash
+8,2026-01-09,Nabeul,Home,Desk Lamp,2,75.00,Card
+9,2026-01-10,Tunis,Food,Coffee,2,12.00,Cash
+10,2026-01-11,Nabeul,Electronics,Monitor,1,380.00,Card
+11,2026-01-12,Sousse,Food,Tea,10,8.50,Mobile
+12,2026-01-13,Sfax,Home,Chair,1,120.00,Cash
+13,2026-01-14,Tunis,Electronics,Monitor,1,380.00,Card
+14,2026-01-15,Nabeul,Food,Coffee,3,12.00,Mobile
+15,2026-01-16,Sousse,Home,Chair,1,120.00,Card
